@@ -43,6 +43,10 @@ placement variation, sensor technology variability, structural tolerances, and e
 
 ### Impact
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/windturbine-illust.png" width="100%" style="display: block;margin-left: auto;margin-right: auto;margin-top:2rem;">
+</figure>
+
 The project is expected to develop reliable, resilient, and performant ML-based solutions to efficiently transmit and analyze 
 high-frequency (tens of kHz), high-velocity multimodal data streams, thereby enabling critical-event monitoring of offshore 
 wind turbines. This vision creates several research opportunities:
