@@ -10,6 +10,25 @@
 #  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
 #  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
+- name: Dimosthenis Iliadis-Apostolidis
+  photo: DimosthenisIliadisApostolidis.jpg
+  info: Industrial PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>). Research Interests - Software-Defined Networking (SDN), Programmable Networks, Computer/System Architecture. Now Software Applications Engineer at Microchip Technology Inc., Denmark.
+  duration: March 2023 - June 2026
+  email: dia@es.aau.dk
+  number_educ: 1
+  education1: ME in Electrical and Computer Engineering, Aristotle University of Thessaloniki, Greece
+  education2: B
+  education3:
+  education4:
+
+- name: Mieszko Jan Ferens Michalek
+  photo: mieszko.jpg
+  info: PostDoc on the <a href="https://ecn-aau.github.io/projects/qucisafe"> Thomas B. Thriges Fond QUCISAFE</a> project. Now Quantum Specialist at Terma A/S.
+  duration: June 2025 - March 2026
+  number_educ: 3
+  education1: Ph.D. in Cybersecurity (<a href="https://ecn-aau.github.io/projects/iotalentum"> MSCA ITN IoTalentum </a>, supervisor S. Kosta, co-supervisor E. Dushku), Aalborg University, Denmark
+  education2: MSc in Telecommunication Engineering, University of Valladolid, Spain
+  education3: BSc in Telecommunication Technologies Engineering, University of Valladolid, Spain
 
 - name: Luca Sparapani
   photo: luca_sparapani.jpg
