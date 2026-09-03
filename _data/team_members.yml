@@ -47,15 +47,6 @@
   education3: M.Sc. in Microelectronics and Computer Systems, Democritus University of Thrace, Greece
   education4: Diploma in Electrical and Computer Engineering, Democritus University of Thrace, Greece
 
-- name: Mieszko Jan Ferens Michalek
-  photo: mieszko.jpg
-  info: PostDoc on the <a href="https://ecn-aau.github.io/projects/qucisafe"> Thomas B. Thriges Fond QUCISAFE</a> project
-  email: mjfm@es.aau.dk
-  number_educ: 3
-  education1: Ph.D. in Cybersecurity (<a href="https://ecn-aau.github.io/projects/iotalentum"> MSCA ITN IoTalentum </a>, supervisor S. Kosta, co-supervisor E. Dushku), Aalborg University, Denmark
-  education2: MSc in Telecommunication Engineering, University of Valladolid, Spain
-  education3: BSc in Telecommunication Technologies Engineering, University of Valladolid, Spain
-
 - name: Jerónimo Sánchez García
   photo: Jeronimo.jpg
   info: Industrial PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>). Research Interests - High-Performance Computing (HPC), NIC Offloading, In-Network Computing, Software Optimization
@@ -63,16 +54,6 @@
   number_educ: 2
   education1: MSc in High Performance Computing, University of A Coruña, Spain
   education2: BSc in Computer Engineering, University of Almería, Spain
-
-- name: Dimosthenis Iliadis-Apostolidis
-  photo: DimosthenisIliadisApostolidis.jpg
-  info: Industrial PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>). Research Interests - Software-Defined Networking (SDN), Programmable Networks, Computer/System Architecture
-  email: dia@es.aau.dk
-  number_educ: 1
-  education1: ME in Electrical and Computer Engineering, Aristotle University of Thessaloniki, Greece
-  education2: B
-  education3:
-  education4:
 
 - name: Ozan Karaali
   photo: OzanKaraali.jpg
