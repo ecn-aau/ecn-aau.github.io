@@ -39,6 +39,16 @@
   education1: BSc in Computer Engineering, Roma Tre University, Rome, Italy
   education2: MSc in Cybersecurity (ongoing), Sapienza University of Rome, Italy
 
+- name: Weifan Zhang
+  photo: WeifanZhang.jpg
+  info: PhD on the <a href="https://vbn.aau.dk/en/projects/5g-enabled-autonomous-mobile-robotic-systems">5G Enabled Autonomous Mobile Robotic Systems Project</a> (supervisor <a href="https://vbn.aau.dk/en/persons/pm">Preben E. Mogensen</a>, co-supervisor S. Kosta)
+  duration: 2022 – 2025
+  email: weifanzh@es.aau.dk
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Henan University, China
+  education2: M.Sc. in Computer Science, Fuzhou University, China
+  education3:
+  education4:
 
 - name: Ting-Hui Cheng
   photo: Tinghui.jpg
