@@ -49,7 +49,7 @@
 - title: "Real-time Stream Data Analysis for Offshore Wind Turbine Monitoring"
   image: logo_aau_circle.png
   description: The project stems from modern wind turbine testing and verification, where they face a series of data intensive challenges. Wind turbines—especially prototype units—generate massive volumes of heterogeneous, high frequency telemetry, including vibration and acoustic data sampled at tens of kilohertz. This volume exacerbates data transport constraints because they employ extensive instrumentation that enables high resolution condition monitoring of blades, towers, nacelles, and gearboxes—which are required by industry standards such as IEC 61400. Moreover, they are typically deployed in remote onshore or offshore locations with narrow, failure prone communication channels.
-  people: Sokol Kosta (PI), Rifqi Juli Indrayanto (PhD student employed on the project)
+  people: Sokol Kosta (PI), Mustafa Özger(Co-PI), Prof. Christian S. Jensen, Assoc. Prof Tung Kieu, Rifqi Juli Indrayanto (PhD student employed on the project)
   funding: AAU TECH Strategic Funding
   budget: € 1 500 000 / Year
   duration: 01/08/2026 → 31/07/2029
