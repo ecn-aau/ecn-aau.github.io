@@ -11,6 +11,30 @@
 #   image: 
 #   excerpt:
 
+- date: 13. August 2026
+  title: "Real-time Stream Data Analysis for Offshore Wind Turbine Monitoring"
+  url: ""
+  author: "R. J. Indrayanto, S. Kosta"
+  image: windturbine-illust.png
+  excerpt:
+    "
+    Our ECN group has been granted an opportunity to tackle a real-world challenge, inventing reliable, resilient, and performant ML-based solutions to efficiently transmit and analyze high-frequency, high-velocity multimodal data streams of offshore wind turbines. The project is a part of joint initiative between Electronic Systems (ES) Department and Computer Science (CS) Department. The project will focus on three main challenges:<br> 
+    <br>
+    <b>Edge intelligence</b>
+    <br>
+    Developing on turbine algorithms for feature extraction, denoising, uncertainty quantification, and event detection to minimize data volumes transmitted over constrained links.<br>                                       
+    <br>
+    <b>Resilient data movement</b>
+    <br>    
+    Designing error tolerant, cybersecure, standards compliant communication layers that respect IEC 61400 communication models while mitigating corruption and synchronizing high rate sensor streams.<br>               
+    <br>
+    <b>Population level inference from single prototypes</b>
+    <br>
+    Using Bayesian, physics informed, and simulation augmented models to extrapolate from single unit measurements to expected variability across large turbine populations, while quantifying uncertainty introduced by sensor technology, sensor placement, and data transport imperfections. <br>    
+    <br>
+    The cross-department collaboration will enable the possibility for complete end-to-end solutions, with ES supervising the IoT infrastructure, data collection, transmission, security, and edge computing for real-time wind turbine condition monitoring, while CS (Prof. Christian S. Jensen and Assoc. Prof Tung Kieu) providing solutions for the augmented intelligence on home wireless infrastructure for elderly monitoring. 
+"
+
 - date: 5. March 2026
   title: "The Chips-JU CLEVER project final review"
   url: "https://www.linkedin.com/feed/update/urn:li:activity:7435393980596596736/"

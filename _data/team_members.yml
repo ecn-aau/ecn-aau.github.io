@@ -74,3 +74,11 @@
   education2: B.Sc. in Web Technologies and Multimedia, University of Udine, Italy
   education3:
   education:
+
+- name: Rifqi Juli Indrayanto
+  photo: rifqi2.png
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/realtimeturbine">Real-time Stream Data Analysis for Offshore Wind Turbine Monitoring</a> (supervisor S. Kosta and co-supervisors Mustafa Özger)
+  email: rji@es.aau.dk
+  number_educ: 2
+  education1: M.Sc. in Innovative Communication Technologies and Entrepreneurship, Aalborg University, Denmark
+  education2: B.Eng. in Computer Engineering, Sepuluh Nopember Institute of Technology, Indonesia
