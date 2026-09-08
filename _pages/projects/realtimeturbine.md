@@ -58,13 +58,13 @@ wind turbines. This vision creates several research opportunities:
 Combined, these challenges define a rich, interdisciplinary research space at the intersection of data science and electronics, tightly grounded in industry standard practice and modern wind turbine sensing and communication technologies.
 
 
-|                          |                                                                                                                                                                                                                            |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **People involved**:     | Sokol Kosta (PI), Mustafa Özger(Co-PI), Prof. Christian S. Jensen, Assoc. Prof Tung Kieu, Rifqi Juli Indrayanto (PhD student employed on the project)                                                                                                                                            |
-| **Funding source**:      | AAU TECH Strategic Funding                                                                                                                                                                                                 |
-| **Budget**:              | € 1.500.000/Year                                                                                                                                                                                                                      |
-| **Duration**:            | 01/08/2026 → 31/07/2029                                                                                                                                                                                                    |
-| **Partners**:            | Aalborg University                                                                                                                                                                                                         |
+|                          |                                                                                                                                                  |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **People involved**:     | Sokol Kosta (PI), Mustafa Özger(Co-PI), Prof. Christian S. Jensen, Assoc. Prof Tung Kieu, Rifqi Juli Indrayanto (PhD student employed on the project) |
+| **Funding source**:      | AAU TECH Strategic Funding                                                                                                                       |
+| **Budget**:              | € 250.000                                                                                                                                        |
+| **Duration**:            | 01/08/2026 → 31/07/2029                                                                                                                          |
+| **Partners**:            | Aalborg University                                                                                                                               |
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_aau.png" style="width: 210px">
