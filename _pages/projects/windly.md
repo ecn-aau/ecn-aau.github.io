@@ -3,10 +3,10 @@ title: "AAU TECH Real-time Stream Data Analysis for Offshore Wind Turbine Monito
 layout: textlay
 excerpt: "ECN AAU -- Projects"
 sitemap: false
-permalink: /projects/realtimeturbine
+permalink: /projects/windly
 ---
 
-# Real-time Stream Data Analysis for Offshore Wind Turbine Monitoring
+# Windly: Real-time Stream Data Analysis for Offshore Wind Turbine Monitoring
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_aau.png" style="width: 210px">
@@ -47,9 +47,9 @@ placement variation, sensor technology variability, structural tolerances, and e
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/windturbine-illust.png" width="100%" style="display: block;margin-left: auto;margin-right: auto;margin-top:2rem;">
 </figure>
 
-The project is expected to develop reliable, resilient, and performant ML-based solutions to efficiently transmit and analyze 
-high-frequency (tens of kHz), high-velocity multimodal data streams, thereby enabling critical-event monitoring of offshore 
-wind turbines. This vision creates several research opportunities:
+In collaboration between AAU ES Department, AAU CS Department, and Vestas, **Windly** is expected to develop reliable, 
+resilient, and performant ML-based solutions to efficiently transmit and analyze high-frequency (tens of kHz), high-velocity 
+multimodal data streams, thereby enabling critical-event monitoring of offshore wind turbines. This vision creates several research opportunities:
 
 1. **Edge intelligence**—developing on turbine algorithms for feature extraction, denoising, uncertainty quantification, and event detection to minimize data volumes transmitted over constrained links.                                       
 2. **Resilient data movement**—designing error tolerant, cybersecure, standards compliant communication layers that respect IEC 61400 communication models while mitigating corruption and synchronizing high rate sensor streams.              
@@ -64,7 +64,7 @@ Combined, these challenges define a rich, interdisciplinary research space at th
 | **Funding source**:      | AAU TECH Strategic Funding                                                                                                                       |
 | **Budget**:              | € 250.000                                                                                                                                        |
 | **Duration**:            | 01/08/2026 → 31/07/2029                                                                                                                          |
-| **Partners**:            | Aalborg University                                                                                                                               |
+| **Partners**:            | AAU ES Department, AAU CS Department, Vestas (external collaborator)                                                                             |
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_aau.png" style="width: 210px">
