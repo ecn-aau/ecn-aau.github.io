@@ -82,3 +82,11 @@
   number_educ: 2
   education1: M.Sc. in Innovative Communication Technologies and Entrepreneurship, Aalborg University, Denmark
   education2: B.Eng. in Computer Engineering, Sepuluh Nopember Institute of Technology, Indonesia
+
+- name: Luca Sparapani
+  photo: luca_sparapani.jpg
+  info: Research Assistant at Aalborg University (AAU), working with S. Kosta on the <a href="https://ecn-aau.github.io/projects/qucisafe">QUCISAFE project</a>. Research interests - Quantum Communications, Quantum Technologies, Cybersecurity, and Quantum-Safe Networking.
+  email: lucas@es.aau.dk
+  number_educ: 2
+  education1: MSc in Cybersecurity, Sapienza University of Rome, Italy
+  education2: BSc in Computer Engineering, Roma Tre University, Rome, Italy
