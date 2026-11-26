@@ -30,15 +30,6 @@
   education2: MSc in Telecommunication Engineering, University of Valladolid, Spain
   education3: BSc in Telecommunication Technologies Engineering, University of Valladolid, Spain
 
-- name: Luca Sparapani
-  photo: luca_sparapani.jpg
-  info: Visiting Research Intern (working with S. Kosta on the on the <a href="https://ecn-aau.github.io/projects/qucisafe">QUCISAFE project</a>)
-  duration: March – July 2026
-  email: sparapani.2171093@studenti.uniroma1.it
-  number_educ: 2
-  education1: BSc in Computer Engineering, Roma Tre University, Rome, Italy
-  education2: MSc in Cybersecurity (ongoing), Sapienza University of Rome, Italy
-
 - name: Weifan Zhang
   photo: WeifanZhang.jpg
   info: PhD on the <a href="https://vbn.aau.dk/en/projects/5g-enabled-autonomous-mobile-robotic-systems">5G Enabled Autonomous Mobile Robotic Systems Project</a> (supervisor <a href="https://vbn.aau.dk/en/persons/pm">Preben E. Mogensen</a>, co-supervisor S. Kosta)
