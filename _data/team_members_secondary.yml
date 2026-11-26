@@ -9,14 +9,14 @@
   education3: 1998 -2001, PhD in ICT and Media Convergence, Department of telecommunications, DTU
   education4: 1986 -1991 M.Sc.E.E., DTU with specialization in Broadband Communications
 
-- name: Edlira Dushku
-  photo: edlira.jpg
-  info: Tenure Track Assistant Professor in Cybersecurity. Research interests - Trusted Computing, IoT Security, Cyber Resilience.
-  email: edu@es.aau.dk
-  number_educ: 3
-  education1: Postdoc at DTU, Denmark (2020-2022)
-  education2: PhD in Computer Science, Sapienza University of Rome, Italy (2016-2020)
-  education3: B.Sc. and M.Sc. in Computer Science, University of Tirana, Albania (2007, 2013)
+# - name: Edlira Dushku
+#   photo: edlira.jpg
+#   info: Tenure Track Assistant Professor in Cybersecurity. Research interests - Trusted Computing, IoT Security, Cyber Resilience.
+#   email: edu@es.aau.dk
+#   number_educ: 3
+#   education1: Postdoc at DTU, Denmark (2020-2022)
+#   education2: PhD in Computer Science, Sapienza University of Rome, Italy (2016-2020)
+#   education3: B.Sc. and M.Sc. in Computer Science, University of Tirana, Albania (2007, 2013)
 
 - name: Israel Leyva Mayorga
   photo: IsraelLeyvaMayorga.jpg
