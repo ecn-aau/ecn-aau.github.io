@@ -41,11 +41,20 @@
   photo: vntinas.jpg
   info: Tenure Track Assistant Professor
   email: vntinas@es.aau.dk
-  number_educ: 4
+  number_educ: 3
   education1: Postdoc at TUD | Dresden University of Technology, Germany
   education2: Ph.D. in ECE, DUTh, Greece (supervisor <a href="https://www.ee.duth.gr/en/instructor/sirakoulis-georgios/">Prof. Georgios Ch. Sirakoulis</a>) and in Electronics, Universitat Politècnica de Catalunya, Spain (supervisor <a href="https://hipics.upc.edu/en/people/faculty/a-rubio">Prof. Antonio Rubio</a>)
   education3: M.Sc. in Microelectronics and Computer Systems, Democritus University of Thrace, Greece
   education4: Diploma in Electrical and Computer Engineering, Democritus University of Thrace, Greece
+
+- name: Rana Walied Ahmad
+  photo: rwah.jpg
+  info: Postdoctoral Researcher. Research interests - Memristive Devices, Physics-Based Compact Modeling, Neuromorphic Computing and In-Memory Computing.
+  email: rwah@es.aau.dk
+  number_educ: 3
+  education1: Ph.D. in Electrical Engineering from RWTH Aachen University, Germany (supervisor <a href="https://www.iwe.rwth-aachen.de/dasIWE2-RW.html">Prof. Dr. Rainer Waser</a> and <a href="https://www.fz-juelich.de/profile/menzel_st">Dr. Stephan Menzel</a>)
+  education2: M.Sc. in Physics, Heinrich Heine University Düsseldorf, Germany
+  education3: B.Sc. in Physics, Heinrich Heine University Düsseldorf, Germany
 
 - name: Jerónimo Sánchez García
   photo: Jeronimo.jpg
